@@ -1,6 +1,6 @@
-Online store Bakery.
+Posts and Users.
 
-Frontend part of an online store based on all the technologies listed below.
+Frontend part of an news based on all the technologies listed below.
 
 - ReactJS 18
 - TypeScript
